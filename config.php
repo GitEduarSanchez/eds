@@ -11,7 +11,7 @@ define('INSTALLED', true);
 
 	$sql_details = array(
 'host' => 'db-mysql-nyc3-06043-do-user-11620043-0.b.db.ondigitalocean.com',
-'db' => 'isasport_eds',
+'db' => 'eds',
 'user' => 'doadmin',
 'pass' => 'AVNS_TFAboy02R4lXlXJ',
 'port' => '25060'
