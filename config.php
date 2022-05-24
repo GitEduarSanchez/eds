@@ -2,10 +2,10 @@
 define('INSTALLED', true);
 
 	$sql_details = array(
-'host' => '51.81.87.241',
-'db' => 'isasport_eds',
-'user' => 'isasport_isa',
-'pass' => '1091658551edwar20',
+'host' => 'eduarmysql.mysql.database.azure.com',
+'db' => 'eds',
+'user' => 'eduar',
+'pass' => 'Edwar20*',
 'port' => '3306'
 	);
 
