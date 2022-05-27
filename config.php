@@ -10,7 +10,7 @@ define('INSTALLED', true);
 	);*/
 
 	$sql_details = array(
-'host' => 'localhost',
+'host' => 'localhost:3306',
 'db' => 'eds',
 'user' => 'eds',
 'pass' => '1091658551Edwar20*',
