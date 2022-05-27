@@ -10,11 +10,11 @@ define('INSTALLED', true);
 	);*/
 
 	$sql_details = array(
-'host' => 'db-mysql-nyc3-06043-do-user-11620043-0.b.db.ondigitalocean.com',
+'host' => 'localhost',
 'db' => 'eds',
-'user' => 'doadmin',
-'pass' => 'AVNS_TFAboy02R4lXlXJ',
-'port' => '25060'
+'user' => 'eds',
+'pass' => '1091658551Edwar20*',
+'port' => '3306'
 	);
 
 
