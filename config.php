@@ -12,7 +12,7 @@ define('INSTALLED', true);
 	$sql_details = array(
 'host' => 'localhost',
 'db' => 'eds',
-'user' => 'poliedroplesk.com',
+'user' => 'eds',
 'pass' => '1091658551Edwar20*',
 'port' => '3306'
 	);
