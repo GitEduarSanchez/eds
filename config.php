@@ -5,7 +5,7 @@ define('INSTALLED', true);
 'host' => 'eduarmysql.mysql.database.azure.com',
 'db' => 'eds',
 'user' => 'eds',
-'pass' => 'Edwar20',
+'pass' => 'Edwar20*',
 'port' => '3306'
 	);
 
