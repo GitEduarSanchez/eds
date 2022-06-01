@@ -1,23 +1,15 @@
 <?php 
 define('INSTALLED', true);
 
-	/*$sql_details = array(
-'host' => '51.81.87.241',
-'db' => 'isasport_eds',
-'user' => 'isasport_isa',
-'pass' => '1091658551edwar20',
-'port' => '3306'
-	);*/
-
 	$sql_details = array(
-'host' => '34.193.85.16',
+'host' => 'eduarmysql.mysql.database.azure.com',
 'db' => 'eds',
-'user' => 'poliedro',
-'pass' => '1091658551Edwar20*',
+'user' => 'eds',
+'pass' => 'Edwar20',
 'port' => '3306'
 	);
 
-
+	
 	/*
 	 * --------------------------------------------------------------------
 	 * GLOBAL CONSTANTS
