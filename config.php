@@ -2,10 +2,10 @@
 define('INSTALLED', true);
 
 	$sql_details = array(
-'host' => 'eduarmysql.mysql.database.azure.com',
-'db' => 'eds',
-'user' => 'eds',
-'pass' => 'Edwar20*',
+'host' => '',
+'db' => '',
+'user' => '',
+'pass' => '',
 'port' => '3306'
 	);
 
